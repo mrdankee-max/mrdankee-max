@@ -1,21 +1,13 @@
 {
- "key": "dd8c2c47",
- "stars": 2,
- "contributions": 28,
- "repos": 10,
+ "key": "b152b615",
+ "stars": 1,
+ "contributions": 10,
+ "repos": 5,
  "followers": 0,
  "languages": [
   [
-   "HTML",
-   18834
-  ],
-  [
    "JavaScript",
-   18708
-  ],
-  [
-   "Kotlin",
-   7274
+   17766
   ]
  ],
  "days": [
@@ -63,17 +55,17 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 0,
     "day": 12,
     "today": false
    },
    {
-    "c": 9,
+    "c": 0,
     "day": 13,
     "today": false
    },
    {
-    "c": 4,
+    "c": 0,
     "day": 14,
     "today": false
    },
@@ -110,7 +102,7 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 5,
     "day": 21,
     "today": true
    },
@@ -121,25 +113,34 @@
  ],
  "streak": {
   "current": 1,
-  "longest": 3
+  "longest": 2
  },
  "pins": [],
  "all": [
-  {
-   "name": "starai",
-   "url": "https://github.com/mrdankee-max/starai",
-   "text": "",
-   "fork": false,
-   "stars": 1,
-   "language": "HTML",
-   "topics": []
-  },
   {
    "name": "Rich",
    "url": "https://github.com/mrdankee-max/Rich",
    "text": "",
    "fork": false,
    "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "zephyy_",
+   "url": "https://github.com/mrdankee-max/zephyy_",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "zephyy",
+   "url": "https://github.com/mrdankee-max/zephyy",
+   "text": "",
+   "fork": false,
+   "stars": 0,
    "language": null,
    "topics": []
   },
@@ -153,66 +154,12 @@
    "topics": []
   },
   {
-   "name": "lost",
-   "url": "https://github.com/mrdankee-max/lost",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Kotlin",
-   "topics": []
-  },
-  {
    "name": "discord-music-bot",
    "url": "https://github.com/mrdankee-max/discord-music-bot",
    "text": "",
    "fork": false,
    "stars": 0,
    "language": "JavaScript",
-   "topics": []
-  },
-  {
-   "name": "porshe-911-photo",
-   "url": "https://github.com/mrdankee-max/porshe-911-photo",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "zaewoo-news",
-   "url": "https://github.com/mrdankee-max/zaewoo-news",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "RoonVisuals",
-   "url": "https://github.com/mrdankee-max/RoonVisuals",
-   "text": "Fabric mod for Minecraft 1.21.4 with PvP visual effects - Hit Particles, Target HUD, Damage Numbers, Critical Effects, and Trajectory Prediction",
-   "fork": true,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "fever",
-   "url": "https://github.com/mrdankee-max/fever",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "Fever-Visuals",
-   "url": "https://github.com/mrdankee-max/Fever-Visuals",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": null,
    "topics": []
   }
  ]
