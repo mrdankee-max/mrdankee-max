@@ -1,9 +1,9 @@
 {
   "version": 1,
   "login": "mrdankee-max",
-  "seed": "#FAFAFA",
+  "seed": "#FFFFFF",
   "seedFromAvatar": false,
-  "scheme": "tonalSpot",
+  "scheme": "monochrome",
   "motion": true,
   "iconFill": true,
   "order": [
